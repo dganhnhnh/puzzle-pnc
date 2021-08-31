@@ -1,0 +1,6 @@
+1. new kind of fog of war: the pic only flips when sprite walks near
+2. automate adding pics
+
+3. specific effects of pics
+        - mouse wheel
+        - pointer up pointer down
